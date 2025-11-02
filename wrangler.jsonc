@@ -3,9 +3,9 @@
  * https://developers.cloudflare.com/workers/wrangler/configuration/
  */ {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "llm-chat-app-template",
+  "name": "cold-lab-llm",
   "main": "src/index.ts",
-  "compatibility_date": "2025-10-08",
+  "compatibility_date": "2025-11-02",
   "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
   "assets": {
     "binding": "ASSETS",
